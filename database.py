@@ -9,7 +9,7 @@ DATABASE_URL = f"sqlite:///{(BASE_DIR / 'support_kpi.db').as_posix()}"
 engine = create_engine(
     DATABASE_URL,
     connect_args={"check_same_thread": False},
-    echo=True
+    echo=False
 )
 
 SessionLocal = sessionmaker(bind=engine, autoflush=False)
