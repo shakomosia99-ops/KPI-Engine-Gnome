@@ -54,6 +54,6 @@ if __name__ == "__main__":
 # როდის იმოქმედო და როდის არა, მცირე რაოდენობის ჩატებში უფრო მაღალი ნოიზია ციფრებში
 # რომელიც გაბნევს და ვერ ხვდები should react or no,
 # not every difference in report means something !!!!!!!
-# Aht(avarage handle time) შეიძლება უსამართლო იყოს რომელიმე საფორთისთვის, თუ მაგალითად
+# Aht(average handle time) შეიძლება უსამართლო იყოს რომელიმე საფორთისთვის, თუ მაგალითად
 # დემე handles technical hard cases, აკეთებს მძიმე შრომას, კარგი რეპორტები უნდა შედარდეს
 # ერთნაირ სამუშაოზე, ან at least add that context!
